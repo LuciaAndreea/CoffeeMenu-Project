@@ -1,12 +1,10 @@
-import { useState } from 'react'
 import './App.css'
+import CoffeeList from './CoffeeList'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-     
+     <CoffeeList></CoffeeList>
     </>
   )
 }
