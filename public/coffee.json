@@ -1,0 +1,61 @@
+[
+    {
+        "image": "/images/cappuccino.jpg",
+        "name": "Cappuccino",
+        "price": "5.50",
+        "rating": "4.9",
+        "votes": "120",
+        "tag": "Popular",
+        "available": true
+    },
+
+    {
+        "image": "/images/espresso.jpg",
+        "name": "Espresso",
+        "price": "3.50",
+        "rating": "4.5",
+        "votes": "252",
+        "tag": "Popular",
+        "available": true
+    },
+
+    {
+        "image": "/images/americano.jpg",
+        "name": "Americano",
+        "price": "4.40",
+        "rating": "4.2",
+        "votes": "72",
+        "tag": "",
+        "available": false
+    },
+
+    {
+        "image": "/images/latte-machiato.jpg",
+        "name": "Latte Machiato",
+        "price": "5.80",
+        "rating": "4.6",
+        "votes": "83",
+        "tag": "",
+        "available": false
+    },
+
+    {
+        "image": "/images/iced-latte.jpg",
+        "name": "Iced Latte",
+        "price": "5.50",
+        "rating": "4.9",
+        "votes": "120",
+        "tag": "Popular",
+        "available": true
+    },
+
+    {
+        "image": "/images/hot-chocolate.jpg",
+        "name": "Hot Chocolate",
+        "price": "6.20",
+        "rating": "4.7",
+        "votes": "136",
+        "tag": "Popular",
+        "available": true
+    }
+]
